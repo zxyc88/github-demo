@@ -34,3 +34,10 @@
 .selected {
   background-color: #87CEEB; /* Sky blue for selected square */
 }
+
+.in-check {
+  background-color: #ff7f7f; /* A reddish highlight */
+  /* You could also use a border or box-shadow:
+  /* border: 3px solid red; */
+  /* box-shadow: inset 0 0 10px red; */
+}
